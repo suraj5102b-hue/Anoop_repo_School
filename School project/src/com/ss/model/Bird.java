@@ -2,9 +2,9 @@ package com.ss.model;
 
 public class Bird {
 	
-	String sound() {
+	void sound() {
 		System.out.println("Bird is making a sound...");
-		return "Chirp Chirp";
+		System.out.println("squad1 bird is making a sound...");
 	}
 
 }
