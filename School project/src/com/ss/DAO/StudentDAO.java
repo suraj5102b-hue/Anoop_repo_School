@@ -10,5 +10,10 @@ public class StudentDAO {
 		 return 100;
 		// Logic to calculate total number of students
 	}
+	
+	public void displayStudentDetails() {
+		System.out.println("Displaying student details...");
+		// Logic to display student details
+	}
 
 }
